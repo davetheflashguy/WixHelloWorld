@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello world! - settings</title>
+    <!-- Wix JS SDK -->
+    <script type="text/javascript" src="http://sslstatic.wix.com/services/js-sdk/1.24.0/js/Wix.js"></script>
+</head>
+<body>
+    <h1>Hello world Settings!!!</h1>
+    <h3>My First App</h3>
+</body>
+</html>
